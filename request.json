@@ -1,0 +1,4 @@
+{
+  "model": "deepvk/USER-bge-m3",
+  "input": "Hello! I want to get an embedding."
+}
