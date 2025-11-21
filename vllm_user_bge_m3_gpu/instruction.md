@@ -2,7 +2,7 @@
 - NVIDIA-SMI 580.88
 - Driver Version: 580.88
 - CUDA Version: 13.0
-- NVIDIA GeForce RTX 3070
+- NVIDIA GeForce RTX 3070 8 Gb
 
 # Сборка и запуск
 docker build --no-cache -t vllm-user-bge .
